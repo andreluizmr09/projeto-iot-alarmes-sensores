@@ -11,6 +11,6 @@ Este é um projeto simples feito no [Tinkercad](https://www.tinkercad.com/), sim
 
 
 ## 🖼️ Simulação
-![Circuito](imagens/circuito.png)
+![Circuito](Imagens/sistema_arduino.JPG)
 
 Você pode acessar o projeto online no Tinkercad [clicando aqui]((https://www.tinkercad.com/things/4sYZvdjZxx8-projeto-iot-alarmes-e-sensores)).
