@@ -1,6 +1,6 @@
 # Projeto Arduino no Tinkercad - LED Pisca
 
-Este é um projeto simples feito no [Tinkercad](https://www.tinkercad.com/), simulando um **Arduino UNO** com um LED que pisca em intervalos de 1 segundo.
+Este é um projeto simples feito no [Tinkercad](https://www.tinkercad.com/), simula um sistema de segurança residencial utilizando Arduino. O sistema monitora a luminosidade ambiente e sensores de presença, além de botões que simulam o estado de portas, janelas e garagem. Quando detecta situações anormais, como abertura de acessos ou movimento, o sistema aciona alertas visuais (LEDs), sonoros (buzzer) e exibe mensagens em um display LCD para indicar possíveis invasões ou situações de alerta.
 
 ## 🔧 Componentes usados
 - Arduino UNO
